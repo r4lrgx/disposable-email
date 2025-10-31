@@ -1,5 +1,5 @@
 <div align="center">
-  <a aria-label="License" href="https://github.com/r4lrgx/disposable-email/blob/main/license.md">
+  <a aria-label="License" href="https://github.com/r4lrgx/disposable-email/blob/main/LICENSE.md">
   <img src="https://img.shields.io/github/license/r4lrgx/disposable-email?color=60a5fa&logo=github&label=License&style=flat-square"/>
  </a>
   <a aria-label="Version" href="https://www.npmjs.com/package/@r4lrgx/disposable-email">
