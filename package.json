@@ -1,5 +1,5 @@
 {
- "name": "disposable-email",
+ "name": "@r4lrgx/disposable-email",
  "version": "1.0.0",
  "description": "Fast domain and email blacklist checker with wildcard and subdomain support",
  "main": "index.js",
