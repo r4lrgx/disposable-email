@@ -28,7 +28,7 @@ jobs:
      with:
       node-version: ${{ matrix.node }}
       always-auth: true
-      cache: 'pnpm'
+      # cache: 'pnpm'
    - name: 🚀 Install dependencies
      run: pnpm install
    - name: 📦 Deploy to NPM registry
