@@ -1,0 +1,28 @@
+{
+ "name": "disposable-email",
+ "version": "1.0.0",
+ "description": "Fast domain and email blacklist checker with wildcard and subdomain support",
+ "main": "index.js",
+ "scripts": {
+  "test": "vitest run"
+ },
+ "license": "MIT",
+ "author": {
+  "name": "r4lrgx",
+  "email": "tsx@r4lrgx.dev"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/r4lrgx/disposable-email.git"
+ },
+ "bugs": {
+  "url": "https://github.com/r4lrgx/disposable-email/issues"
+ },
+ "engines": {
+  "node": ">=20"
+ },
+ "packageManager": "pnpm@10.19.0",
+ "devDependencies": {
+  "vitest": "^4.0.5"
+ }
+}
